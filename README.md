@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">1. 🛠️ Open the project in Unity 2021.3.11f1.<br><br>2. 🎧 Ensure you have the necessary VR hardware and Unity XR settings configured.<br><br>3. 📄 Refer to the [XR Device Simulator Guide]<https://unity-connect-prd.storage.googleapis.com/20210604/28db6ca9-aba1-4ac3-a15a-24664daff3ea/Rig%20Simulator%20Keyboard%20Shortcuts.pdf> for details on using the XR Device Simulator.<br><br>4. 🎮 Run the scene and interact with the environment using controllers.</p>
+<p align="left">1. 🛠️ Open the project in Unity 2021.3.11f1.<br><br>2. 🎧 Ensure you have the necessary VR hardware and Unity XR settings configured.<br><br>3. 📄 Refer to the [XR Device Simulator Guide](https://unity-connect-prd.storage.googleapis.com/20210604/28db6ca9-aba1-4ac3-a15a-24664daff3ea/Rig%20Simulator%20Keyboard%20Shortcuts.pdf) for details on using the XR Device Simulator.<br><br>4. 🎮 Run the scene and interact with the environment using controllers.</p>
 
 ###
 
@@ -54,6 +54,6 @@
 
 ###
 
-<p align="left">Watch the gameplay video here: [YouTube Video]<https://youtu.be/iBT-mQr2aOI></p>
+<p align="left">Watch the gameplay video here: [YouTube Video](https://youtu.be/iBT-mQr2aOI)</p>
 
 ###
